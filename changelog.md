@@ -1,3 +1,13 @@
+Version 3.15.7
+------------------
+* BREAKING: Range.overlapsWith works slightly different now.
+
+[issues resolved](https://github.com/javaparser/javaparser/milestone/160?closed=1)
+
+Version 3.15.6
+------------------
+[issues resolved](https://github.com/javaparser/javaparser/milestone/159?closed=1)
+
 Version 3.15.5
 ------------------
 * BREAKING: bugs have been fixed in how SourceRoot configures parsing,
